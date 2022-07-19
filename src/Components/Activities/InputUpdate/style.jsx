@@ -1,0 +1,14 @@
+import styled from 'styled-components/native'
+
+
+export const Container = styled.View`
+ width: 100%;
+`;
+export const TextLabel = styled.Text`
+
+`;
+
+export const TextInputField = styled.TextInput`
+
+
+`;

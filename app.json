@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "UniVet",
+    "slug": "UniVet",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/UniVet.png",
+    "splash": {
+      "image": "./assets/UniVet.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#143694"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+    
+  }
+}
